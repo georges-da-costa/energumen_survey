@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "from": 1581263636, 
+      "links": [
+        {
+          "href": "/3.0/sites/lyon/metrics/power/timeseries?only=nova-14&from=1581263636&to=1581263659", 
+          "rel": "self", 
+          "type": "application/vnd.fr.grid5000.api.Timeseries+json;level=1"
+        }, 
+        {
+          "href": "/3.0/sites/lyon/metrics/power", 
+          "rel": "parent", 
+          "type": "application/vnd.fr.grid5000.api.Metric+json;level=1"
+        }
+      ], 
+      "resolution": 1, 
+      "timestamps": [
+        1581263636.0, 
+        1581263637.0, 
+        1581263638.0, 
+        1581263639.0, 
+        1581263640.0, 
+        1581263641.0, 
+        1581263642.0, 
+        1581263643.0, 
+        1581263644.0, 
+        1581263645.0, 
+        1581263646.0, 
+        1581263647.0, 
+        1581263648.0, 
+        1581263649.0, 
+        1581263650.0, 
+        1581263651.0, 
+        1581263652.0, 
+        1581263653.0, 
+        1581263654.0, 
+        1581263655.0, 
+        1581263656.0, 
+        1581263657.0, 
+        1581263658.0, 
+        1581263659.0
+      ], 
+      "to": 1581263659, 
+      "type": "timeseries", 
+      "uid": "nova-14", 
+      "values": [
+        108.7, 
+        160.7, 
+        165.0, 
+        165.2, 
+        165.5, 
+        165.6, 
+        165.5, 
+        165.6, 
+        165.7, 
+        165.9, 
+        165.6, 
+        165.9, 
+        166.2, 
+        166.5, 
+        166.1, 
+        166.2, 
+        166.3, 
+        166.1, 
+        166.2, 
+        166.3, 
+        166.2, 
+        165.8, 
+        165.9, 
+        165.9
+      ]
+    }
+  ], 
+  "links": [
+    {
+      "href": "/3.0/sites/lyon/metrics/power/timeseries?resolution=1&only=nova-14&from=1581263636&to=1581263659", 
+      "rel": "self", 
+      "type": "application/vnd.fr.grid5000.api.Collection+json;level=1"
+    }, 
+    {
+      "href": "/3.0/sites/lyon/metrics/power", 
+      "rel": "parent", 
+      "type": "application/vnd.fr.grid5000.api.Metric+json;level=1"
+    }
+  ], 
+  "offset": 0, 
+  "total": 1
+}

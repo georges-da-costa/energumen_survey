@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "from": 1581691822, 
+      "links": [
+        {
+          "href": "/3.0/sites/lyon/metrics/power/timeseries?only=nova-11&from=1581691822&to=1581691826", 
+          "rel": "self", 
+          "type": "application/vnd.fr.grid5000.api.Timeseries+json;level=1"
+        }, 
+        {
+          "href": "/3.0/sites/lyon/metrics/power", 
+          "rel": "parent", 
+          "type": "application/vnd.fr.grid5000.api.Metric+json;level=1"
+        }
+      ], 
+      "resolution": 1, 
+      "timestamps": [
+        1581691822.0, 
+        1581691823.0, 
+        1581691824.0, 
+        1581691825.0, 
+        1581691826.0
+      ], 
+      "to": 1581691826, 
+      "type": "timeseries", 
+      "uid": "nova-11", 
+      "values": [
+        79.1, 
+        78.9, 
+        79.5, 
+        79.1, 
+        97.1
+      ]
+    }
+  ], 
+  "links": [
+    {
+      "href": "/3.0/sites/lyon/metrics/power/timeseries?resolution=1&only=nova-11&from=1581691822&to=1581691826", 
+      "rel": "self", 
+      "type": "application/vnd.fr.grid5000.api.Collection+json;level=1"
+    }, 
+    {
+      "href": "/3.0/sites/lyon/metrics/power", 
+      "rel": "parent", 
+      "type": "application/vnd.fr.grid5000.api.Metric+json;level=1"
+    }
+  ], 
+  "offset": 0, 
+  "total": 1
+}

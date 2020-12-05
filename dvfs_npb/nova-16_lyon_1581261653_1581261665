@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "from": 1581261653, 
+      "links": [
+        {
+          "href": "/3.0/sites/lyon/metrics/power/timeseries?only=nova-16&from=1581261653&to=1581261665", 
+          "rel": "self", 
+          "type": "application/vnd.fr.grid5000.api.Timeseries+json;level=1"
+        }, 
+        {
+          "href": "/3.0/sites/lyon/metrics/power", 
+          "rel": "parent", 
+          "type": "application/vnd.fr.grid5000.api.Metric+json;level=1"
+        }
+      ], 
+      "resolution": 1, 
+      "timestamps": [
+        1581261653.0, 
+        1581261654.0, 
+        1581261655.0, 
+        1581261656.0, 
+        1581261657.0, 
+        1581261658.0, 
+        1581261659.0, 
+        1581261660.0, 
+        1581261661.0, 
+        1581261662.0, 
+        1581261663.0, 
+        1581261664.0, 
+        1581261665.0
+      ], 
+      "to": 1581261665, 
+      "type": "timeseries", 
+      "uid": "nova-16", 
+      "values": [
+        131.4, 
+        136.1, 
+        136.2, 
+        136.0, 
+        136.1, 
+        135.8, 
+        135.5, 
+        136.6, 
+        136.5, 
+        136.3, 
+        136.3, 
+        136.4, 
+        135.2
+      ]
+    }
+  ], 
+  "links": [
+    {
+      "href": "/3.0/sites/lyon/metrics/power/timeseries?resolution=1&only=nova-16&from=1581261653&to=1581261665", 
+      "rel": "self", 
+      "type": "application/vnd.fr.grid5000.api.Collection+json;level=1"
+    }, 
+    {
+      "href": "/3.0/sites/lyon/metrics/power", 
+      "rel": "parent", 
+      "type": "application/vnd.fr.grid5000.api.Metric+json;level=1"
+    }
+  ], 
+  "offset": 0, 
+  "total": 1
+}

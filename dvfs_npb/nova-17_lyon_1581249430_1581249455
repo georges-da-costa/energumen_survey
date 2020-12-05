@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "from": 1581249430, 
+      "links": [
+        {
+          "href": "/3.0/sites/lyon/metrics/power/timeseries?only=nova-17&from=1581249430&to=1581249455", 
+          "rel": "self", 
+          "type": "application/vnd.fr.grid5000.api.Timeseries+json;level=1"
+        }, 
+        {
+          "href": "/3.0/sites/lyon/metrics/power", 
+          "rel": "parent", 
+          "type": "application/vnd.fr.grid5000.api.Metric+json;level=1"
+        }
+      ], 
+      "resolution": 1, 
+      "timestamps": [
+        1581249430.0, 
+        1581249431.0, 
+        1581249432.0, 
+        1581249433.0, 
+        1581249434.0, 
+        1581249435.0, 
+        1581249436.0, 
+        1581249437.0, 
+        1581249438.0, 
+        1581249439.0, 
+        1581249440.0, 
+        1581249441.0, 
+        1581249442.0, 
+        1581249443.0, 
+        1581249444.0, 
+        1581249445.0, 
+        1581249446.0, 
+        1581249447.0, 
+        1581249448.0, 
+        1581249449.0, 
+        1581249450.0, 
+        1581249451.0, 
+        1581249452.0, 
+        1581249453.0, 
+        1581249454.0, 
+        1581249455.0
+      ], 
+      "to": 1581249455, 
+      "type": "timeseries", 
+      "uid": "nova-17", 
+      "values": [
+        113.7, 
+        149.2, 
+        151.8, 
+        151.4, 
+        151.3, 
+        152.0, 
+        152.8, 
+        152.6, 
+        152.9, 
+        152.8, 
+        152.8, 
+        152.6, 
+        151.8, 
+        152.6, 
+        151.8, 
+        151.9, 
+        152.3, 
+        152.4, 
+        152.9, 
+        152.3, 
+        152.7, 
+        152.6, 
+        152.7, 
+        152.5, 
+        152.7, 
+        152.5
+      ]
+    }
+  ], 
+  "links": [
+    {
+      "href": "/3.0/sites/lyon/metrics/power/timeseries?resolution=1&only=nova-17&from=1581249430&to=1581249455", 
+      "rel": "self", 
+      "type": "application/vnd.fr.grid5000.api.Collection+json;level=1"
+    }, 
+    {
+      "href": "/3.0/sites/lyon/metrics/power", 
+      "rel": "parent", 
+      "type": "application/vnd.fr.grid5000.api.Metric+json;level=1"
+    }
+  ], 
+  "offset": 0, 
+  "total": 1
+}

@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "from": 1581246341, 
+      "links": [
+        {
+          "href": "/3.0/sites/lyon/metrics/power/timeseries?only=nova-14&from=1581246341&to=1581246363", 
+          "rel": "self", 
+          "type": "application/vnd.fr.grid5000.api.Timeseries+json;level=1"
+        }, 
+        {
+          "href": "/3.0/sites/lyon/metrics/power", 
+          "rel": "parent", 
+          "type": "application/vnd.fr.grid5000.api.Metric+json;level=1"
+        }
+      ], 
+      "resolution": 1, 
+      "timestamps": [
+        1581246341.0, 
+        1581246342.0, 
+        1581246343.0, 
+        1581246344.0, 
+        1581246345.0, 
+        1581246346.0, 
+        1581246347.0, 
+        1581246348.0, 
+        1581246349.0, 
+        1581246350.0, 
+        1581246351.0, 
+        1581246352.0, 
+        1581246353.0, 
+        1581246354.0, 
+        1581246355.0, 
+        1581246356.0, 
+        1581246357.0, 
+        1581246358.0, 
+        1581246359.0, 
+        1581246360.0, 
+        1581246361.0, 
+        1581246362.0, 
+        1581246363.0
+      ], 
+      "to": 1581246363, 
+      "type": "timeseries", 
+      "uid": "nova-14", 
+      "values": [
+        143.7, 
+        182.0, 
+        182.0, 
+        182.3, 
+        181.9, 
+        181.7, 
+        182.5, 
+        182.7, 
+        182.7, 
+        182.8, 
+        182.8, 
+        182.8, 
+        182.7, 
+        182.8, 
+        182.9, 
+        182.8, 
+        183.0, 
+        182.9, 
+        183.0, 
+        183.0, 
+        182.9, 
+        183.1, 
+        183.0
+      ]
+    }
+  ], 
+  "links": [
+    {
+      "href": "/3.0/sites/lyon/metrics/power/timeseries?resolution=1&only=nova-14&from=1581246341&to=1581246363", 
+      "rel": "self", 
+      "type": "application/vnd.fr.grid5000.api.Collection+json;level=1"
+    }, 
+    {
+      "href": "/3.0/sites/lyon/metrics/power", 
+      "rel": "parent", 
+      "type": "application/vnd.fr.grid5000.api.Metric+json;level=1"
+    }
+  ], 
+  "offset": 0, 
+  "total": 1
+}

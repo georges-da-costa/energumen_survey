@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "from": 1581247126, 
+      "links": [
+        {
+          "href": "/3.0/sites/lyon/metrics/power/timeseries?only=nova-14&from=1581247126&to=1581247153", 
+          "rel": "self", 
+          "type": "application/vnd.fr.grid5000.api.Timeseries+json;level=1"
+        }, 
+        {
+          "href": "/3.0/sites/lyon/metrics/power", 
+          "rel": "parent", 
+          "type": "application/vnd.fr.grid5000.api.Metric+json;level=1"
+        }
+      ], 
+      "resolution": 1, 
+      "timestamps": [
+        1581247126.0, 
+        1581247127.0, 
+        1581247128.0, 
+        1581247129.0, 
+        1581247130.0, 
+        1581247131.0, 
+        1581247132.0, 
+        1581247133.0, 
+        1581247134.0, 
+        1581247135.0, 
+        1581247136.0, 
+        1581247137.0, 
+        1581247138.0, 
+        1581247139.0, 
+        1581247140.0, 
+        1581247141.0, 
+        1581247142.0, 
+        1581247143.0, 
+        1581247144.0, 
+        1581247145.0, 
+        1581247146.0, 
+        1581247147.0, 
+        1581247148.0, 
+        1581247149.0, 
+        1581247150.0, 
+        1581247151.0, 
+        1581247152.0, 
+        1581247153.0
+      ], 
+      "to": 1581247153, 
+      "type": "timeseries", 
+      "uid": "nova-14", 
+      "values": [
+        103.2, 
+        137.3, 
+        142.8, 
+        141.9, 
+        142.5, 
+        141.0, 
+        141.3, 
+        140.5, 
+        141.5, 
+        140.7, 
+        142.4, 
+        141.4, 
+        141.0, 
+        141.9, 
+        142.4, 
+        142.2, 
+        140.9, 
+        140.6, 
+        141.3, 
+        141.2, 
+        141.6, 
+        142.1, 
+        141.3, 
+        141.2, 
+        141.3, 
+        141.1, 
+        141.3, 
+        141.3
+      ]
+    }
+  ], 
+  "links": [
+    {
+      "href": "/3.0/sites/lyon/metrics/power/timeseries?resolution=1&only=nova-14&from=1581247126&to=1581247153", 
+      "rel": "self", 
+      "type": "application/vnd.fr.grid5000.api.Collection+json;level=1"
+    }, 
+    {
+      "href": "/3.0/sites/lyon/metrics/power", 
+      "rel": "parent", 
+      "type": "application/vnd.fr.grid5000.api.Metric+json;level=1"
+    }
+  ], 
+  "offset": 0, 
+  "total": 1
+}
